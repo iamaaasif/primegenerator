@@ -1,5 +1,5 @@
 {
-  "name": "primegenerator",
+  "name": "test-primegenerator",
   "version": "1.0.0",
   "description": "This is basically generate prime numbers.",
   "main": "index.js",

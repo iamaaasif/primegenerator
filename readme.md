@@ -4,12 +4,12 @@ This is basically generate all primes upto given number. For generating prime, t
 
 ### Install
 ```
-$ npm install primegenerator
+$ npm install test-primegenerator
 
 ```
 
 ```
-const primes = require('primegenerator');
+const primes = require('test-primegenerator');
 ```
 
 ## License
