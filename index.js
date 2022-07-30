@@ -1,5 +1,5 @@
 const primes = (n) => {
-    var isPrime = [], upperLimit = Math.sqrt(n), primes = [];
+    var isPrime = [], upperLimit = Math.sqrt(n), tempPrimes = [];
     for (let i = 0; i < n; i++) {
         isPrime.push(true);
     }
@@ -13,11 +13,11 @@ const primes = (n) => {
 
     for (let i = 2; i < n; i++) {
         if(isPrime[i]) {
-            primes.push(i);
+            tempPrimes.push(i);
         }
     }
 
-    return primes;
+    return tempPrimes;
 };
 
 module.exports = primes;
