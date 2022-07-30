@@ -1,0 +1,25 @@
+{
+  "name": "primegenerator",
+  "version": "1.0.0",
+  "description": "This is basically generate prime numbers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamaaasif/primegenerator.git"
+  },
+  "keywords": [
+    "prime",
+    "primes",
+    "prime",
+    "generator"
+  ],
+  "author": "\"Abdullah Al Asif <asif.abdullahal20@gmail.com> (https://github.com/iamaaasif)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamaaasif/primegenerator/issues"
+  },
+  "homepage": "https://github.com/iamaaasif/primegenerator#readme"
+}
